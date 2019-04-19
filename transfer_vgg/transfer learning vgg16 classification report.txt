@@ -1,0 +1,19 @@
+
+
+
+                     precision    recall  f1-score   support
+
+ReplenishmentVessel       0.66      0.62      0.64        80
+       SupplyVessel       0.60      0.76      0.67        80
+   HeavyLoadCarrier       0.75      0.78      0.76        80
+                Tug       0.59      0.81      0.68        80
+ FireFightingVessel       0.55      0.28      0.37        80
+           Platform       0.75      0.70      0.72        80
+     TrainingVessel       0.92      0.70      0.79        80
+          Container       0.88      0.90      0.89        80
+             Reefer       0.65      0.66      0.65        80
+          Passenger       0.82      0.91      0.86        80
+
+          micro avg       0.71      0.71      0.71       800
+          macro avg       0.72      0.71      0.70       800
+       weighted avg       0.72      0.71      0.70       800
